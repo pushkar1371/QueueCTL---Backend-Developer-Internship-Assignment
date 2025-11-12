@@ -1,0 +1,63 @@
+# Node modules and dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.csv
+
+# SQLite database and runtime data
+.queuectl/
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Build outputs
+dist/
+build/
+coverage/
+.tmp/
+.cache/
+.nyc_output/
+
+# Test artifacts
+test-results/
+jest-html-reporters-*
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS temporary files
+*.tmp
+*.bak
+*.old
+
+# Global npm link folder
+package-lock.json
+
+# Optional: skip screenshots, demos, videos
+*.mp4
+*.mov
+*.gif
+*.webm
+screenshots/
+demo/
