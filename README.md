@@ -222,4 +222,4 @@ Open [http://localhost:3030](http://localhost:3030) to view live job stats.
 
 ### 📜 License
 
-MIT © 2025 Pushkar Bopanwar
+2025 Pushkar Bopanwar
